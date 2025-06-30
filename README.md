@@ -17,7 +17,6 @@
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Solidity" title="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
-  <img align="center" alt="Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
 </div>
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -26,6 +25,7 @@
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Postman" title="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" alt="Next.js" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Django" title="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
 </div>
 
 ---
