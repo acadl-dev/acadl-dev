@@ -9,7 +9,7 @@
 
 ---
 
-## 💻 Stacks que domino
+## 💻 Tecnologias que utilizo no dia a dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,7 +37,7 @@
 ## 🏅 Certificações
 
 <div style="display: inline_block"><br>
-  <a href="LINK_DA_SUA_BADGE" target="_blank">
+  <a href="[LINK  DA MINHA BADGE](https://www.credly.com/badges/b2f0752c-a3d2-4ea1-805e-6805caba5e39/public_url)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Foundations%20Certified-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations Certification Badge">
   </a>
 </div>
@@ -53,7 +53,7 @@
   <a href="mailto:acadl.dev@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/acadl-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/acadldev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
