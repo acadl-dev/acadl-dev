@@ -11,8 +11,11 @@
   </a>
 </div>
 
-<p align="left">Estudante de Engenharia da Computação no INFNET. Atualmente trabalho com Django e estudo .NET(C#), Java e React paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="left">Estudante de Engenharia da Computação no INFNET, com atuação prática no desenvolvimento web utilizando Django. Possuo experiência no desenvolvimento de aplicações completas, trabalhando desde a modelagem de dados até a implementação de interfaces e regras de negócio.
+
+Também utilizo tecnologias como .NET (C#), Java e React em projetos práticos, ampliando constantemente minha capacidade de construir soluções robustas e escaláveis.
+
+Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e explorar novas abordagens para desenvolver soluções eficientes, bem estruturadas e com foco em resultados reais.
 
 
 <h3 align="left">Minha Stack: </h3>
@@ -27,6 +30,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="c sharp logo" title="C SHARP"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="25" alt="dot net logo" title="DOT NET"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" height="25" alt="java logo" title="Java"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" title="HTML5"  />
   <img width="8" />
@@ -57,6 +62,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt="c sharp logo" title="C SHARP"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="25" alt="dot net logo" title="DOT NET"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" height="25" alt="java logo" title="Java"  />
   <img width="8" />
 
 
